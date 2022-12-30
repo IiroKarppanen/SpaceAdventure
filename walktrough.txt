@@ -1,0 +1,47 @@
+Space Adventure
+
+The goal in this game is to find a habitable planet before your ship takes too much damage
+or before everyone on onboard is too old.
+
+The player must do at atleast the following:
+- Move around the map from star to star with command "go [star name]"
+- Search for habitable planet with command "scan"
+- Try to find items from searchable objects with command "search"
+
+more details below:
+
+STAR SYSTEMS:
+
+The game has 3 possible starting locations:
+- Kepler 142
+- Kepler 150
+- Gliese 141
+
+2 Target systems with habitable planets
+- Kepler 90
+- Trappist 1
+
+5 other systems(Kepler 98, Kepler 103, Toi 700, Toi 800, Gliese 163)
+
+The game has in total 10 star systems
+
+OBJECTS & ITEMS:
+
+the game has different kinds of searchable objects randomly set around the map
+- Remains of old spaceship
+- Alien artifact
+- Unknown metal object
+
+searchable object might have item inside it
+
+EVENTS:
+
+When player travels to new star system, an event might occur with varying consequences
+- Mutiny (2 neutral outcomes, 2 negative outcomes)
+- Alien encounter (1 positive outcome, 2 negative outcomes)
+- Asteroid impact (3 negative outcomes)
+- Radiation hazard(2 neutral outcomes, 2 negative outcomes)
+
+Player might receive item, get damage to ship or even lose the game. Outcome depends on player
+response or ship shield condition.
+
